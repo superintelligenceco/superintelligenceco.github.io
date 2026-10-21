@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/architecture/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/faq/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/getting-started/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/adr/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/adr/0001-lint-the-model-facing-surface/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/adr/0002-average-entity-scores-and-cap-on-injection/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/mcp-lint/adr/0003-permissive-list-requests/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+</urlset>

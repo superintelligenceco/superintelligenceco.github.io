@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/architecture/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/faq/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/protocol/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/adr/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/adr/0001-hash-derived-episode-seeds/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/adr/0002-wilson-score-intervals/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://superintelligenceco.github.io/robo-evals/adr/0003-remote-policy-protocol/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+</urlset>
